@@ -7,4 +7,4 @@ A responsive chat web application with both desktop and mobile interfaces, inclu
 Here are some screeenshots of the application.
 
 ![Chat](Chat/ChatApp.png)
-)
+
